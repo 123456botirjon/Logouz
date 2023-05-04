@@ -1,0 +1,2 @@
+# Logouz
+logotip,uz
